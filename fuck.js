@@ -6,7 +6,7 @@ true => !![]
 obj["property"]  // 等价于obj.property:ml-citation{ref="7" data="citationList"}
 // 常规JS写法
 const prince = {
-    name: "somebody",
+    name: "李泽介",
     planet: "earth",
     sayHi: function() {
       return "看东西只有用心才能看得清楚";
